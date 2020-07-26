@@ -1,1 +1,1 @@
-.web_scarp_data/
+.web_scarp_data
