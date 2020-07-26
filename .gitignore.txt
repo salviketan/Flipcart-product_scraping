@@ -1,9 +1,0 @@
-# Dir to be ignored #
-
-.web_scarp_data/
-
-
-# python files to be ignored #
-
-bs4_scrap.py
-ntin_srap.py
